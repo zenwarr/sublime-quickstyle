@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "QuickStyle: Add rule from class name",
+    "command": "qs_add_rule"
+  }
+]
